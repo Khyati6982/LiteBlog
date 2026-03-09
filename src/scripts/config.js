@@ -1,1 +1,1 @@
-export const serverURL = process.env.SERVER_URL || "http://localhost:3000/posts";
+export const serverURL = "https://liteblog-jsonserver.onrender.com/posts" || "http://localhost:3000/posts";
