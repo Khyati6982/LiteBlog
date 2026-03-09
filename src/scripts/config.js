@@ -1,1 +1,1 @@
-export const serverURL = "http://localhost:3000/posts";
+export const serverURL = process.env.SERVER_URL || "http://localhost:3000/posts";
