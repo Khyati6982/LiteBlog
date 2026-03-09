@@ -12,3 +12,7 @@ LiteBlog is a **minimalistic blogging platform** built using **HTML, CSS, and Ja
 - **CSS** → Styled the interface and ensured responsiveness  
 - **JavaScript** → Added interactivity for managing blog posts  
 - **JSON Server** → Simulated backend for blog storage  
+
+## 🌐 Live Links
+- **Netlify Deployment**: https://liteblog-frontend.netlify.app/
+- **Vercel Deployment**: lite-blog-omega.vercel.app
