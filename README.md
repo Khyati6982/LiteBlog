@@ -15,4 +15,4 @@ LiteBlog is a **minimalistic blogging platform** built using **HTML, CSS, and Ja
 
 ## 🌐 Live Links
 - **Netlify Deployment**: https://liteblog-frontend.netlify.app/
-- **Vercel Deployment**: lite-blog-omega.vercel.app
+- **Vercel Deployment**: https://lite-blog-omega.vercel.app
