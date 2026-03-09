@@ -1,0 +1,17 @@
+{
+  "name": "liteblog",
+  "version": "1.0.0",
+  "description": "LiteBlog is a **minimalistic blogging platform** built using **HTML, CSS, and JavaScript**. It enables users to **create, edit, and manage blog posts** in a simple and efficient way, ensuring ease of use and a clean interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
